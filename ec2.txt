@@ -1,0 +1,3 @@
+linux instance
+aws instance
+mac instance
